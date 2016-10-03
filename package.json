@@ -1,6 +1,6 @@
 {
   "name": "coverify-lcov",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Minimallistic translation of coverify output to lcov.info format",
   "main": "index.js",
   "bin": {
