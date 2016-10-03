@@ -1,0 +1,35 @@
+{
+  "name": "coverify-lcov",
+  "version": "0.0.0",
+  "description": "Minimallistic translation of coverify output to lcov.info format",
+  "main": "index.js",
+  "bin": {
+    "coverify-lcov": "bin/cmd.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rsp/node-coverify-lcov.git"
+  },
+  "keywords": [
+    "coverify",
+    "lcov",
+    "lcov.info",
+    "coverage",
+    "test coverage",
+    "test",
+    "testing",
+    "coveralls"
+  ],
+  "author": "Rafał Pocztarski <r.pocztarski@gmail.com> (https://rsp.github.io/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rsp/node-coverify-lcov/issues"
+  },
+  "homepage": "https://github.com/rsp/node-coverify-lcov#readme",
+  "dependencies": {
+    "filt": "0.0.7"
+  }
+}
